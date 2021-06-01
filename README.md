@@ -7,7 +7,20 @@ Steps to run
 3. make a .env file with following information :  PORT MONGODB_URI DATABASE_NAME CLIENT_ROOT_URL JWT_SECRET JWT_SALT EMAIL_HOST 
 4. Type "npm run dev" in terminal
 
+
+Scripts 
+
+    "dev-client"
+    "dev-server"
+    "dev"
+    "client-install"
+    "server-install"
+    "npm-full-install"
+    
 Theme 
 
 You can switch between dark/light theme if you are logged (not subscriber)
 To change color themes you should change colors in /server/public/upload/themes/ 
+
+
+
