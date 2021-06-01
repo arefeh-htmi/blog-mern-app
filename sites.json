@@ -17,7 +17,7 @@
       "body": {
         "variant": "caption",
         "align": "center",
-        "content": "©2018 BloggingAppCMS App"
+        "content": "©2020 BloggingAppCMS App"
       },
       "order": 1
     },
@@ -27,7 +27,7 @@
       "body": {
         "variant": "body1",
         "align": "center",
-        "content": "Powered by <a href='https://github.com/5TechCenter/utils/bloggingappcms' target='_blank'>BloggingAppCMS</a>"
+        "content": "Powered by BloggingAppCMS arefeh htmi"
       },
       "order": 2
     }
@@ -51,7 +51,7 @@
       "body": {
         "variant": "caption",
         "align": "center",
-        "content": "©2018 BloggingAppCMS App"
+        "content": "©2020 BloggingAppCMS App"
       },
       "order": 1
     },
@@ -65,7 +65,7 @@
       "body": {
         "variant": "caption",
         "align": "center",
-        "content": "Powered by <a href='https://github.com/5TechCenter/utils/bloggingappcms' target='_blank'>BloggingAppCMS</a>"
+        "content": "Powered by BloggingAppCMS arefeh htmi"
       },
       "order": 2
     }
