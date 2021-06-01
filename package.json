@@ -1,0 +1,21 @@
+{
+  "name": "mern-blogging-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-client": "npm start --prefix client",
+    "dev-server": "npm start --prefix server ",
+    "dev": "concurrently -n w: npm:dev-*",
+    "client-install": "npm install --prefix client",
+    "server-install": "npm install --prefix server",
+    "npm-full-install": "concurrently \"npm run client-install\" \"npm run server-install\" "
+  },
+  "author": "arefeh_htmi",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^6.2.0",
+    "nodemon": "^2.0.7"
+  }
+}

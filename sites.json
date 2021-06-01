@@ -1,0 +1,79 @@
+{
+  "_id": {
+    "domain": "",
+    "collectionPrefix": ""
+  },
+  "title": "BloggingAppCMS App",
+  "description": "A BloggingAppCMS site.",
+  "front_page": {
+    "show_on_front": "posts",
+    "page_on_front": null,
+    "page_for_posts": null
+  },
+  "footer": [
+    {
+      "_id": { "$oid": "5099803df3f4948bd2f98391" },
+      "type": "markdown",
+      "body": {
+        "variant": "caption",
+        "align": "center",
+        "content": "©2018 BloggingAppCMS App"
+      },
+      "order": 1
+    },
+    {
+      "_id": { "$oid": "5099803df3f4948bd2f98392" },
+      "type": "html",
+      "body": {
+        "variant": "body1",
+        "align": "center",
+        "content": "Powered by <a href='https://github.com/5TechCenter/utils/bloggingappcms' target='_blank'>BloggingAppCMS</a>"
+      },
+      "order": 2
+    }
+  ]
+}
+{
+  "_id": {
+    "domain": "news",
+    "collectionPrefix": "news_"
+  },
+  "title": "BloggingAppCMS News",
+  "description": "Another BloggingAppCMS site.",
+  "footer": [
+    {
+      "_id": { "$oid": "5099803df3f4948bd2f98396" },
+      "type": "markdown",
+      "title": {
+        "variant": "body2",
+        "content": "Copyright"
+      },
+      "body": {
+        "variant": "caption",
+        "align": "center",
+        "content": "©2018 BloggingAppCMS App"
+      },
+      "order": 1
+    },
+    {
+      "_id": { "$oid": "5099803df3f4948bd2f98397" },
+      "type": "html",
+      "title": {
+        "variant": "body2",
+        "content": "Attribution"
+      },
+      "body": {
+        "variant": "caption",
+        "align": "center",
+        "content": "Powered by <a href='https://github.com/5TechCenter/utils/bloggingappcms' target='_blank'>BloggingAppCMS</a>"
+      },
+      "order": 2
+    }
+  ]
+}
+{
+  "_id": {
+    "domain": "test",
+    "collectionPrefix": "test_"
+  }
+}
