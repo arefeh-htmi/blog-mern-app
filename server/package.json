@@ -8,7 +8,7 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.18.3",
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.5",
     "debug": "~2.6.9",
     "express": "~4.15.5",
     "express-brute": "^1.0.1",
